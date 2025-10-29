@@ -150,3 +150,4 @@ Usuário: Controle-Estoque-CHS-Sorocaba
 Email Primário: seconcichs@gmail.com
 https://supabase.com/dashboard/project/jimfxcilgcsufobxumkp
 Organization: Preventivas_2025
+Github: https://github.com/Danieljulho1976
